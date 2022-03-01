@@ -13,6 +13,9 @@ Lorem ipsum
 [scopyleft](scopyleft.fr)
 ![Noel](https://images.prismic.io/barnebys/d8b5d784ce865afb61128d6c929458047ee11577_blog.jpeg?w=900&auto=format%2Ccompress&cs=tinysrgb)
 
+[page1](https://zeldemmy.github.io/page1)
+[autrepage1](./page1)
+
 ---
 
 <h1>Bonjour</h1>
